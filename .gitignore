@@ -1,0 +1,42 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dylib
+
+# Large data files
+*.geojson
+*.html
+*.h
+*.c
+*.f
+*.f90
+*.f95
+*.pxd
+*.pxi
+*.npy
+*.npz
+*.pkl
+*.a
+*.exe
+*.gz
+
+# R artifacts
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS
+.DS_Store
+
+# Misc package files
+*.wkt
+*.cmake
+*.gpkg
+*.fits
+*.csv.gz
