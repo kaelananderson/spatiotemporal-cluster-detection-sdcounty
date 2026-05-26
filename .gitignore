@@ -9,8 +9,8 @@ __pycache__/
 *.dylib
 
 # Large data files
-*.geojson
-*.html
+# *.geojson
+# *.html
 *.h
 *.c
 *.f

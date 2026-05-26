@@ -31,7 +31,7 @@ from datetime import datetime
 from pathlib import Path
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-INPUT_HTML   = "notebooks/satscan/cluster_extract/lgbm_second_run.clustermap.html"   
+INPUT_HTML   = "notebooks/satscan/cluster_extract/lgbm_5pct_200mc_12mo.html"   
 OUTPUT_STEM  = ""          # ← optional: leave "" to auto-derive from filename
 N_VERTICES   = 64          # vertices used to approximate each circle polygon
 
